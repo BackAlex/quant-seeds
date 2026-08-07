@@ -1,12 +1,12 @@
 {
  "symbol": [
   "ES_CALL_WALL",
-  "ES_FLIP",
   "ES_MAX_PAIN",
   "ES_PUT_WALL",
   "ES_SPOT",
   "ES_ZERO_GAMMA",
   "NQ_CALL_WALL",
+  "NQ_FLIP",
   "NQ_MAX_PAIN",
   "NQ_PUT_WALL",
   "NQ_SPOT",
@@ -14,12 +14,12 @@
  ],
  "description": [
   "Call Wall (ES)",
-  "Dealer Inventory Flip (ES)",
   "Max Pain (ES)",
   "Put Wall (ES)",
   "Spot (ES)",
   "Zero Gamma (ES)",
   "Call Wall (NQ)",
+  "Dealer Inventory Flip (NQ)",
   "Max Pain (NQ)",
   "Put Wall (NQ)",
   "Spot (NQ)",
