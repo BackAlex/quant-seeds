@@ -1,7 +1,6 @@
 {
  "symbol": [
   "ES_CALL_WALL",
-  "ES_FLIP",
   "ES_MAX_PAIN",
   "ES_PUT_WALL",
   "ES_SPOT",
@@ -15,7 +14,6 @@
  ],
  "description": [
   "Call Wall (ES)",
-  "Dealer Inventory Flip (ES)",
   "Max Pain (ES)",
   "Put Wall (ES)",
   "Spot (ES)",
